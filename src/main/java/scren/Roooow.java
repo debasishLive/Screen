@@ -15,8 +15,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
 public class Roooow {
-
-	@Test
+@Test
 	public void demorun() throws Exception {
 
 		System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
